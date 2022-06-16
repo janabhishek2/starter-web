@@ -25,3 +25,5 @@ This will be commited
 This will be staged
 
 This will be in working dir.
+
+## Added copyright
