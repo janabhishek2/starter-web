@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work.
 
 Some changes to starter repo.
 
+Adding a line for rebase
+
 ## Introduction
 
 Sample website with plenty of files for demos
