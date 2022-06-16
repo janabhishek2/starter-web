@@ -15,3 +15,6 @@ commited change
 new change for st area
 
 Change in wd.
+
+
+Adding changes to be merged in master with fast forwarding
