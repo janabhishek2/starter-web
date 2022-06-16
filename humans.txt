@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Abhishek Jan SE janabhishek2@gmail.com
 
 # THANKS
 
