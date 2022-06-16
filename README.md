@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work.
 
 Some changes to starter repo.
 
-Adding a line for rebase
+Adding a line for rebase , more changes from my feature branch
 
 ## Introduction
 
