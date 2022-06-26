@@ -8,7 +8,8 @@ Adding a line for rebase , more changes from my feature branch
 
 ## Introduction
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+Adding a new fix.
 
 ## Purpose
 
