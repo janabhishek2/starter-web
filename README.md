@@ -28,3 +28,5 @@ Please fork this repo and then issue PR for review.
 
 c1
 c2
+
+All rights reserved
